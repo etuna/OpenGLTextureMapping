@@ -1,0 +1,50 @@
+﻿  MenuHandler.cpp
+c:\users\etuna\source\repos\texturemapping\texturemapping\angel.h(65): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\texturemapping\texturemapping\mat.h(764): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\texturemapping\texturemapping\mat.h(765): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\texturemapping\texturemapping\mat.h(766): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\texturemapping\texturemapping\mat.h(787): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\texturemapping\texturemapping\mat.h(789): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\texturemapping\texturemapping\mat.h(792): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\texturemapping\texturemapping\mat.h(809): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\texturemapping\texturemapping\menuhandler.cpp(164): warning C4101: 'mcontrol': unreferenced local variable
+c:\users\etuna\source\repos\texturemapping\texturemapping\menuhandler.cpp(164): warning C4101: 'myColor': unreferenced local variable
+c:\users\etuna\source\repos\texturemapping\texturemapping\menuhandler.cpp(252): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\texturemapping\texturemapping\menuhandler.cpp(291): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\etuna\source\repos\texturemapping\texturemapping\menuhandler.cpp(285): warning C4101: 'ModelView': unreferenced local variable
+c:\users\etuna\source\repos\texturemapping\texturemapping\menuhandler.cpp(406): warning C4305: '=': truncation from 'double' to 'GLfloat'
+  main.cpp
+c:\users\etuna\source\repos\texturemapping\texturemapping\angel.h(65): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\texturemapping\texturemapping\mat.h(764): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\texturemapping\texturemapping\mat.h(765): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\texturemapping\texturemapping\mat.h(766): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\texturemapping\texturemapping\mat.h(787): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\texturemapping\texturemapping\mat.h(789): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\texturemapping\texturemapping\mat.h(792): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\texturemapping\texturemapping\mat.h(809): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(161): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(166): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(167): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(342): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(347): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(348): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(431): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(452): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(462): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(445): warning C4101: 'mshading': unreferenced local variable
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(533): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(534): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(604): warning C4101: 'temp2': unreferenced local variable
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(604): warning C4101: 'temp3': unreferenced local variable
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(604): warning C4101: 'temp1': unreferenced local variable
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(611): warning C4101: 'temp2': unreferenced local variable
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(611): warning C4101: 'temp3': unreferenced local variable
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(611): warning C4101: 'temp4': unreferenced local variable
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(619): warning C4101: 'temp4': unreferenced local variable
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(647): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(741): warning C4101: 'comment': unreferenced local variable
+  InitShader.cpp
+c:\users\etuna\source\repos\texturemapping\texturemapping\angel.h(65): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Generating Code...
+c:\users\etuna\source\repos\texturemapping\texturemapping\main.cpp(806): warning C4715: 'readPPM': not all control paths return a value
+  TextureMapping.vcxproj -> c:\users\etuna\source\repos\TextureMapping\Debug\TextureMapping.exe
